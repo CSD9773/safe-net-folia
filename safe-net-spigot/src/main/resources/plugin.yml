@@ -5,6 +5,7 @@ author: dejvokep
 main: dev.dejvokep.safenet.spigot.SafeNetSpigot
 description: ${parent.description}
 api-version: 1.13
+folia-supported: true
 load: STARTUP
 # Dependencies:
 softdepend:
